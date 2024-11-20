@@ -12,7 +12,6 @@ This is Onifade Stephen Muyiwa
  
 	•	🤝 I’m looking to collaborate with companies, organizations, or individuals to solve their business problems by leveraging data.
  
-	•	📩 How to reach me [here](www.linkedin.com/in/onifade-stephen-b4732b339)
 	
 
 My Skills:
@@ -22,3 +21,5 @@ My Skills:
 	•	Tableau
 	•	Power BI
 	•	Microsoft PowerPoint
+ 
+•	📩 How to reach me [here](www.linkedin.com/in/onifade-stephen-b4732b339)
